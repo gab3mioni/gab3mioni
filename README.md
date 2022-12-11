@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho com criação de sites para pequenos comércios locais da minha cidade natal, mas pretendo expandir meus projetos para a plataforma FiveM que utiliza-se majoritariamente lua.
 - 📚 Prioridade em obter novos conhecimentos em JavaScript e PHP.
+- Para dúvidas e/ou obter informações, entre em contato em gab3#4195 ou https://discord.gg/HyZsMYTm65.
 
 <div>
    <a href="https://github.com/gab3mioni">
