@@ -1,7 +1,7 @@
 ### Olá!! Sou o Gabriel Mioni 👋
 
 - 🔭 Atualmente trabalho com criação de sites para pequenos comércios locais da minha cidade natal, mas pretendo expandir meus projetos para a plataforma FiveM que utiliza-se majoritariamente lua.
-- 📚 Prioridade em obter novos conhecimentos em JavaScript e PHP.
+- 📚 Prioridade em obter novos conhecimentos em JavaScript.
 - Para dúvidas e/ou obter informações, entre em contato em hatelyzz#4195 ou https://discord.gg/HyZsMYTm65.
 
 <div>
