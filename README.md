@@ -1,6 +1,6 @@
 ### Olá!! Sou o Gabriel Mioni 👋
 
-- 🔭 Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC.
+- 🔭 Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC.
 - 📚 Prioridade em obter novos conhecimentos em HTML, CSS e JavaScript.
 - Para dúvidas e/ou obter informações, entre em contato em hatelyzz#4195 ou https://discord.gg/HyZsMYTm65.
 
