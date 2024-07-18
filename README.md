@@ -1,7 +1,7 @@
 ### Olá!! Sou o Gabriel Mioni 👋
 
 - 🔭 Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC.
-- 📚 Prioridade em obter novos conhecimentos em Java, PHP e Lua.
+- 📚 Prioridade em obter novos conhecimentos em Java.
 - Para dúvidas e/ou obter informações, entre em contato: gabriel@mioni.com.br
 
 <div align="center">  
