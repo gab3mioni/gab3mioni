@@ -1,13 +1,25 @@
-### Olá!! Sou o Gabriel Mioni 👋
+<h3> Olá!! Sou o Gabriel Mioni 👋 </h3>
 
 - 🔭 Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC.
 - 📚 Prioridade em obter novos conhecimentos em PHP.
 - Para dúvidas e/ou obter informações, entre em contato: gabriel@mioni.com.br
 
+
 <div>
   <a href="[https://github.com/gab3mioni](https://github.com/gab3mioni)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gab3mioni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab3mioni&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
+<br>
+  
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Ally-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ally-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ##
