@@ -4,9 +4,10 @@
 - 📚 Prioridade em obter novos conhecimentos em PHP.
 - Para dúvidas e/ou obter informações, entre em contato: gabriel@mioni.com.br
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gab3mioni&show_icons=true&count_private=true&hide_border=true&title_color=649be5&icon_color=649be5&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab3mioni&layout=compact&hide_border=true&title_color=649be5&text_color=649be5&bg_color=0d1117" />
+<div>
+  <a href="[https://github.com/gab3mioni](https://github.com/gab3mioni)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gab3mioni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab3mioni&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ##
