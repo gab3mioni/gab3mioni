@@ -7,7 +7,7 @@
 
 <div>
   <a href="[https://github.com/gab3mioni](https://github.com/gab3mioni)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gab3mioni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gab3mioni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab3mioni&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
