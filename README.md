@@ -1,8 +1,8 @@
 <h3> Olá!! Sou o Gabriel Mioni 👋 </h3>
 
-- 🔭 Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC.
-- 📚 Prioridade em obter novos conhecimentos em PHP.
-- Para dúvidas e/ou obter informações, entre em contato: gabriel@mioni.com.br
+- 🔭 Atualmente curso o 3° semestre de Análise e Desenvolvimento de Sistemas na FATEC.
+- 📚 Prioridade em obter novos conhecimentos em PHP e PostgreSQL.
+- Para dúvidas e/ou obter informações, entre em contato: gabrielmionibastos@gmail.com
 
 
 <div>
