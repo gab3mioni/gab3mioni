@@ -36,4 +36,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mioni/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmioni_/) 
-[![Gmail](https://img.shields.io/badge/-gabrielleribeiro2010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielleribeiro2010@gmail.com)](mailto:gabrielmionibastos@gmail.com)
+[![Gmail](https://img.shields.io/badge/-gabrielmionibastos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielmionibastos@gmail.com)](mailto:gabrielmionibastos@gmail.com)
