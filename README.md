@@ -8,6 +8,7 @@
 
 <div style="display: inline">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
   <img align="center" alt="react" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
